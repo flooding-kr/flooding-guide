@@ -2,6 +2,6 @@
 
 * [README](README.md)
 
-## 백엔드 개발 <a href="#backend" id="backend"></a>
+## 코드 컨벤션
 
-* [API 테스터](backend/api.md)
+* [패키지 구조](undefined/undefined.md)
